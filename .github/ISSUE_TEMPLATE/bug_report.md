@@ -37,4 +37,8 @@ body:
     attributes:
       label: Additional contex
       description: Add any other context about the problem here.
-
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
